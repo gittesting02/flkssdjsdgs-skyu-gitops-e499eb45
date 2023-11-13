@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: flkssdjsdgs-dev
+  labels:
+    environment-id: env_d193f6f8-dca0-4cdd-b2f8-1dc10f6ba350
+    project-id: project_83120cfa-aa67-4c9b-bfd8-ff38cac4c31e
+    project-name: flkssdjsdgs
+    environment-name: dev
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627
